@@ -10,8 +10,8 @@ Do the following to add the full dataset:
 7. Open the Notebook and Run
 
 Ensure following libraries are installed:
-Pandas
-glob
-nltk
-sklearn
+1. Pandas
+2. glob
+3. nltk
+4. sklearn
 
